@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Johao Bienvenido a mi GitHub</h1>
+<h1 align="center">Hola, soy Johao Bienvenido a mi GitHub :wave:</h1>
 
 ###
 
